@@ -1,6 +1,6 @@
 # Drug Data Review Sentiment Analysis
 
-<img src="/Image/header1.jpg" width="600">
+<img src="/header/header1.jpg" width="600">
 
 ---
 
