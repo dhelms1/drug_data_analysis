@@ -2,4 +2,4 @@
 
 ---
 
-Data comes from [Kaggle](https://www.kaggle.com/iancornish/drug-data/notebooks). *To be filled in...*
+Data comes from: https://archive.ics.uci.edu/ml/machine-learning-databases/00462/drugsCom_raw.zip
