@@ -11,6 +11,20 @@ Patient reviews for over 3,000 drugs were obtaibed from online pharmaceutical re
 
 ---
 
-## Project Overview
+## Data
+The data for this project was collected from the [UCI Drug Review](https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018) on Kaggle, but it originated from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29). Features of the data include:
 
-*To be filled in*
+1. drugName (categorical): name of drug
+2. condition (categorical): name of condition
+3. review (text): patient review
+4. rating (numerical): 10 star patient rating
+5. date (date): date of review entry
+6. usefulCount (numerical): number of users who found review useful
+
+The data was originally split into a train/test partition of size 75% and 25% (respectively). However, we will further split the training data into both a training and validation set using an 80% and 20% split (respectively).
+
+---
+
+## Notebok Breakdown:
+
+*To be filled in...*
