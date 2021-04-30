@@ -1,6 +1,6 @@
 # Prescription Drug Sentiment Analysis
 
-<img src="/header/header1.jpg" width="600">
+<img src="/header/header1.jpg" width="650">
 
 ---
 
