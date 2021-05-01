@@ -4,6 +4,10 @@
 
 ---
 
+*Project Duration: 5/1/21 - ...*
+
+---
+
 ## Introduction
 Patient reviews for over 3,000 drugs were obtained from online pharmaceutical review sites. Information such as the patients condition, drug name, date, review, and rating were all collected in order to construct the dataset. The main purpose of the data is to be used for sentiment analysis, where the rating determines the classification of the review. However, the data will also be used in exploring select features such as drug name, condition, and rating in order to get a better understanding for the data and its distributions. 
 
